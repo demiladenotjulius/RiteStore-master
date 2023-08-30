@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+#bag{
+    width: 200px;
+    height: 190px;
+}
+#cloth{
+    width: 200px;
+    height: 190px;
+}
+#jacket{
+    width: 200px;
+    height: 190px;
+}
+#top{
+    width: 210px;
+    height: 200px;
+}
+.primary{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.primary h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+.bag{
+    border: 0.9px solid black;
+    width: 230px;
+    height: 320px;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 20px;
+   border-radius: 8px;
+}
+.cloth{
+    border: 0.9px solid black;
+    width: 230px;
+    height: 320px;
+    align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 20px;
+   border-radius: 8px;
+
+}
+.top{
+    border: 0.9px solid black;
+    width: 230px;
+    height: 320px;
+    align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 20px;
+   border-radius: 8px;
+
+}
+.jacket{
+    border: 0.9px solid black;
+    width: 230px;
+    height: 320px;
+    align-items: center;
+   justify-content: center;
+   text-align: center;
+   padding: 20px;
+   border-radius: 8px;
+
+}
+button{
+    padding: 9px;
+    border-radius: 2px;
+    border: 0.9px solid black;
+    background-color: white;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.primary p{
+    font-weight: 600;
+}

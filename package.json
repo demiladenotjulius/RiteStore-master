@@ -1,0 +1,18 @@
+{
+  "name": "my-react-app",
+  "version": "1.0.0"
+
+  "scripts": {
+    "start": "react-scripts starts"
+  }
+ 
+}
+
+{
+  "dependencies": {
+    "react-router-dom": "^5.3.4"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
